@@ -25,6 +25,7 @@ _This project is extremely experimental and far away from working flawlessly_
 First and foremost, you need a python based integrated development environment, such as [Spyder](https://www.spyder-ide.org/) or [Pycharm](https://www.jetbrains.com/es-es/pycharm/).
 
 Then, you will need to install PyAutoGui, OpenCV and a few other libraries.
+
 In order to do so, open up your IDE's terminal and type the next commands:
 
 ```
